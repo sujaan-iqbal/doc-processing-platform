@@ -7,7 +7,7 @@ AI-Powered Document Analysis with NLP
 - Batch Processing
 - Analytics Dashboard
 
-Check out demo here: https://huggingface.co/spaces/sujaan4596/doc-processing-platform
+Check out demo here: [sujaan4596/doc-prcocessing-platform](https://huggingface.co/spaces/sujaan4596/doc-prcocessing-platform)
 
 ## Features
 

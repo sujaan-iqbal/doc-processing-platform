@@ -1,14 +1,3 @@
----
-title: Document Processing Platform
-emoji: 📄
-colorFrom: indigo
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.28.1
-app_file: streamlit_app/app.py
-pinned: false
-python_version: 3.9
----
 
 # Document Processing Platform
 

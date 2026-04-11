@@ -7,7 +7,7 @@ AI-Powered Document Analysis with NLP
 - Batch Processing
 - Analytics Dashboard
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out demo here: https://huggingface.co/spaces/sujaan4596/doc-processing-platform
 
 ## Features
 

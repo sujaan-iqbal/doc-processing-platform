@@ -1,2 +1,7 @@
 #!/bin/bash
-python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
+# Download NLTK data
+python -m nltk.downloader punkt
+python -m nltk.downloader stopwords
+
+# Create data directory
+mkdir -p streamlit_app/data

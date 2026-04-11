@@ -7,15 +7,18 @@ sdk: streamlit
 sdk_version: 1.28.1
 app_file: streamlit_app/app.py
 pinned: false
-license: mit
 python_version: 3.9
 ---
 
-# 📄 Document Processing Platform
+# Document Processing Platform
 
-**AI-Powered Document Analysis with NLP**
+AI-Powered Document Analysis with NLP
+- Text Summarization
+- Sentiment Analysis  
+- Batch Processing
+- Analytics Dashboard
 
-[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/YOUR_USERNAME/doc-processing-platform)
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 ## Features
 

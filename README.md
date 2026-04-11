@@ -32,3 +32,26 @@ python_version: 3.9
 3. **Analytics**: View sentiment distribution and processing trends
 
 ## Sample Text for Testing
+
+The new product launch was incredibly successful! Customer feedback has been overwhelmingly positive, and sales have exceeded all expectations. The team worked very hard to make this happen. However, we did face some minor technical issues initially, but these were quickly resolved. Looking forward, we plan to expand to new markets.
+
+
+## Technology Stack
+
+- **Streamlit** - Web interface
+- **TextBlob** - Sentiment analysis
+- **Sumy** - Text summarization
+- **NLTK** - Natural language processing
+- **Plotly** - Interactive visualizations
+- **Pandas** - Data manipulation
+
+## Local Development
+
+```bash
+pip install -r requirements.txt
+python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
+cd streamlit_app
+streamlit run app.py
+
+License
+MIT License - feel free to use and modify!
